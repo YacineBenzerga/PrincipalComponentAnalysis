@@ -1,0 +1,32 @@
+{
+  "name": "npm-pca-pkg",
+  "version": "1.0.0",
+  "description": "a javascript library for Dimensionality Reduction(Principal Component Analysis)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pca",
+    "machine",
+    "learning",
+    "dimensionality",
+    "reduction"
+  ],
+  "author": "Yacine Benzerga <benzerga.yacine@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "compute-covariance": "^1.0.1",
+    "jskit-learn": "^0.9.4",
+    "linalg": "^0.3.2",
+    "mathjs": "^5.0.1",
+    "matrix-correlation": "0.0.1",
+    "ml-dataset-iris": "^1.0.0",
+    "ml-matrix": "^5.1.1",
+    "ml-stat": "^1.3.3",
+    "mlhelper": "^0.1.10",
+    "node-svd": "^0.1.3",
+    "numeric": "^1.2.6",
+    "numjs": "^0.16.0"
+  }
+}
